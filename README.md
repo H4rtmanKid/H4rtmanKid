@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi there! I'm Nattanon Kh
 
-<!--
-**H4rtmanKid/H4rtmanKid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with a sharp edge in backend design, API architecture, and scalable dev environments.  
+Passionate about crafting systems that are not just functional — but aligned with business goals, scalable in strategy, and designed to drive real value.
 
-Here are some ideas to get you started:
+- 🧠 I love solving complex logic with simple, clean code
+- 🎯 Focused on developer experience, performance, and business
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Exploring — Tech
+- AI-assisted development workflows
+- CI/CD pipelines with GitHub Actions
+- Full-stack clean architecture in Docker environments
+
+### 💼 Currently Exploring — Business
+- Business Model Canvas (BMC)
+- Design Thinking & user-centered design
+
+### 📫 Connect with Me
+- ✉️ You can reach me via GitHub Issues — I treat them like DMs 😎
+
+---
+
+> ⚡ Fun fact: I build with code, think in models, and move with insight — because fuel without direction is just noise.
