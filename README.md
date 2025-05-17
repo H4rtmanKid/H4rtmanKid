@@ -21,3 +21,9 @@ Passionate about crafting systems that are not just functional — but aligned w
 ---
 
 > ⚡ Fun fact: I build with code, think in models, and move with insight — because fuel without direction is just noise.
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,vue,docker,mysql,mongodb" />
+  </a>
+</p>
